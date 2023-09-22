@@ -48,7 +48,7 @@ flags.DEFINE_enum(
 )
 flags.DEFINE_string(
     'mushroom_csv',
-    '',
+    '/Users/benedict/UDC_research/UDC_MAB/mushroom - mushroom.csv',
     'Location of the csv file containing the mushroom dataset.',
 )
 
